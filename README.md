@@ -24,3 +24,7 @@ All tools work good in 2019 . Tested under kubuntu 18.04 + wine(because windoze 
 `MIDI` folder, include `mid` files, which can be edited/created uses https://lmms.io/ a free, cross-platform DAW (digital audio workstation).  
 
 Playing lot of formats above possible uses f.e.  `audacious` or other extended media player.  
+
+`zxtune` https://zxtune.bitbucket.io/ sid player, can jump to time uses mouse click (audacious can't do this)  
+
+jsidplay2 `https://haendel.ddns.net/~ken/` java app , sid media station, huge gui, can display composer mini picture, and other information  
