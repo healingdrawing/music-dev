@@ -27,4 +27,4 @@ Playing lot of formats above possible uses f.e.  `audacious` or other extended m
 
 `zxtune` https://zxtune.bitbucket.io/ sid player, can jump to time uses mouse click (audacious can't do this)  
 
-jsidplay2 `https://haendel.ddns.net/~ken/` java app , sid media station, huge gui, can display composer mini picture, and other information  
+`jsidplay2` https://haendel.ddns.net/~ken/ java app , sid media station, huge gui, can display composer mini picture, and other information  
